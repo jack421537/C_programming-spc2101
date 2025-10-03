@@ -2,7 +2,7 @@
  /*
  Name: Jackson Mutinda 
  Reg No:CT101/G/26534/25
- Date: 18/09/2025
+ Date: 29/09/2025
  Description: semester units 
  */
  #include<stdio.h> // preprocessor directive scan (). printf()//main function 
